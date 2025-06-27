@@ -1,24 +1,33 @@
-# Sneaker Shop E-Commerce Website
+# 👟 Sneaker Shop E-Commerce Website
+
+![Sneaker Shop Demo](./images/screenshot.png)
 
 ## 📌 Description
-A responsive sneaker e-commerce site built with HTML, CSS, and JavaScript.
+A responsive sneaker e-commerce platform built with **HTML5, CSS3, and Bootstrap 5**. Features product listings with hover effects, user registration form, and mobile-first design. Perfect for showcasing modern web development skills.
 
-## 🖼️ Screenshots
-![Main Page](./images/screenshot.png)
-![Products](./images/products.png)
+## 📑 Table of Contents
+- [Key Features](#-key-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Tech Stack](#-tech-stack)
+- [Credits](#-credits)
+- [Live Demo](#-live-demo)
+
+## ✨ Key Features
+✅ **Product Gallery**  
+- Hover-to-zoom effect on all sneaker images  
+- Clean grid layout with pricing  
+
+✅ **User Interaction**  
+- Registration/login buttons  
+- Contact form with validation  
+
+✅ **Design**  
+- Responsive Bootstrap grid  
+- Black/red color scheme  
+- Animated hover effects  
 
 ## ⚙️ Installation
-```bash
-git clone https://github.com/kingslayer45/sneaker-shop.git
-cd sneaker-shop
-open index.html
-- **Note**: The `EOF` must be on its own line with no spaces before it.
-
-
-
-
-
-
-
-
-
+1. Clone repository:
+   ```bash
+    git clone https://github.com/kingslayer45/sneaker-shop.git
