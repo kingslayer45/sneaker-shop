@@ -1,6 +1,6 @@
 # 👟 Sneaker Shop E-Commerce Website
 
-![Sneaker Shop Demo](./images/screenshot.png)
+![Sneaker Shop Demo](https://github.com/kingslayer45/sneaker-shop/blob/master/images/Screenshot.png)
 
 ## 📌 Description
 A responsive sneaker e-commerce platform built with **HTML5, CSS3, and Bootstrap 5**. Features product listings with hover effects, user registration form, and mobile-first design. Perfect for showcasing modern web development skills.
