@@ -25,7 +25,15 @@ A responsive sneaker e-commerce platform built with **HTML5, CSS3, and Bootstrap
 ✅ **Design**  
 - Responsive Bootstrap grid  
 - Black/red color scheme  
-- Animated hover effects  
+- Animated hover effects
+
+✅**Credits**  
+- Developer: Katleho Ndabane
+- Design Inspiration: Nike Product Pages
+
+🌐 Live Demo
+
+https://kingslayer45.github.io/sneaker-shop
 
 ## ⚙️ Installation
 1. Clone repository:
