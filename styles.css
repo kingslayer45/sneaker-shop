@@ -1,0 +1,42 @@
+/* styles.css */
+#row1 {
+    background-color: black;
+}
+
+#Web-header {
+    color: white;
+}
+
+#form {
+    background-color: black;
+}
+
+#name,
+#surname,
+#messages {
+    color: white;
+}
+
+body {
+    margin: 20px;
+    border: 15px solid transparent;
+    padding: 20px;
+}
+
+.hover-image {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.hover-image:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+
+.card {
+  margin-bottom: 20px;
+  transition: transform 0.3s;
+}
+
+p {
+    color: red;
+}
